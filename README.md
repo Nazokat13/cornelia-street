@@ -4,4 +4,8 @@ some description.
 
 ## Subheader
 
-1. Learn how to use GitHub.
+Learn how to use GitHub.
+
+## Local Development
+
+1.  Open index.html in your browser
